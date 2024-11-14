@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client: one
+  start_date: 2024-11-14
+  end_date: 2024-11-14
+  goal: MyString
+
+two:
+  client: two
+  start_date: 2024-11-14
+  end_date: 2024-11-14
+  goal: MyString
